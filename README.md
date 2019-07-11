@@ -45,3 +45,6 @@ as title
 Factor+Explaining+Proportion.ipynb
 
 use 5 factor model, daily data, three size portfolios, calculate the proportion of return predicted by Mrk-Rf (and other factors)
+
+Historical Bull and Bear Market https://seekingalpha.com/article/4199997-historical-bull-bear-markets-s-and-p-500
+
