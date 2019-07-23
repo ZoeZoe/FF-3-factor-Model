@@ -1,0 +1,13 @@
+For factor model, or CAPM model
+    How to estimate BETA, i.e., What length of historical data should be used? 
+    Are all the stocks has stable Beta estimation? What is the confidence level?
+    How much can we get really from data regards the CAPM model?
+    To what extent is the model stable and useful? Think of this in different universe, over the history, normal or extreme market periods, positive and negative months.
+
+For Momentum factor as an example
+    Should we define the factor as a momentum portfolio return in the linear equition or a standerized stock specific momentum values(exposure)
+    portfolio return approach
+        unit match as we have returns on the right hand side.
+        the portfolio is bit artficial as it is not like market factor where individual stock is indeed affected by systematic drivers which affect the whole market.
+        
+    
